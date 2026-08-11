@@ -58,6 +58,7 @@ Atuo com análise de dados estratégica, transformando dados brutos em *insights
 
 ### 📂 Principais Projetos e Portfólio
 
+- 📑 **Executive Business Dashboard — BI & Analytics (SQL + DAX + POWER BI)**: Visão Geral de Performance Comercial e Indicadores Operacionais (KPIs)
 - 📑 **Análise Diagnóstica & Root Cause (SQL + Python):** Investigação de indicadores de negócio, tratamento de dados volumosos via CTEs e análises exploratórias.
 - 📉 **Dashboard Estratégico Corporativo (Power BI + DAX):** Modelagem semântica em *Star Schema*, cálculo de métricas de inteligência de tempo e relatórios executivos.
 
@@ -102,7 +103,7 @@ Atuo com análise de dados estratégica, transformando dados brutos em *insights
 ```text
 ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
 │   Fonte Dados   │  ──>  │  ETL & SQL CTEs │  ──>  │  Modelagem DAX  │  ──>  │ Dashboard Final │
-│  (PostgreSQL)   │       │  (Data Clean)   │       │  (Star Schema)  │       │   (Power BI)    │
+│     (SQLite)    │       │  (POWER QUERY)  │       │  (Star Schema)  │       │   (Power BI)    │
 └─────────────────┘       └─────────────────┘       └─────────────────┘       └─────────────────┘
 ```
 ---
@@ -197,14 +198,14 @@ Atuo com análise de dados estratégica, transformando dados brutos em *insights
 ```text
 ┌──────────────────────┐       ┌──────────────────────┐       ┌──────────────────────┐
 │  Modelo Dimensional  │  ──>  │    Cálculos DAX      │  ──>  │   Camada de Visão    │
-│    (Star Schema)     │       │(Time Intelligence)   │       │(Design & Governança) │
+│    (Star Schema)     │       │  (Time Intelligence) │       │ (Design & Governança)│
 └──────────────────────┘       └──────────────────────┘       └──────────────────────┘
 ```
 
 ---
 ### 📫 Contato e Redes Socias
 
-- 💼 **LinkedIn:** [linkedin.com/in/jessicahakime](https://www.linkedin.com/in/jessicahakime/))
+- 💼 **LinkedIn:** [linkedin.com/in/jessicahakime](https://www.linkedin.com/in/jessicahakime/)
 - ✉️ **E-mail:** jessicahakime@gmail.com
 
 ---
