@@ -45,7 +45,7 @@ Atuo com análise de dados estratégica, transformando dados brutos em *insights
     align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="35px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
   />
