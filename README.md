@@ -2,7 +2,11 @@
 
 ### 📊 Analista de Dados | Data Analytics & BI
 
-Atuo com análise de dados estratégica, transformando dados brutos em *insights* acionáveis para suporte à tomada de decisão executiva. Possuo experiência em extração e tratamento de dados complexos, modelagem dimensional (*Star Schema*), criação de dashboards no Power BI e desenvolvimento de análises exploratórias em Python e SQL.
+Prazer, sou a Jéssica! Sou formada em Engenharia de Alimentos pela Unicamp e venho construindo minha trajetória na área de dados, com experiência em análise de informações, criação de dashboards, automação de processos e Power BI.
+
+Ao longo da minha experiência profissional, trabalhei bastante próxima das áreas de negócio, transformando dados em análises e indicadores que apoiavam a tomada de decisão. Atualmente, também venho aprofundando meus conhecimentos em SQL, Python, Power BI e Analytics.
+
+Estou buscando uma oportunidade em Dados/BI em que eu possa unir esse conhecimento técnico com minha experiência de negócio e continuar evoluindo na área.
 
 ---
 
