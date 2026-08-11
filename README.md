@@ -84,9 +84,70 @@ Atuo com análise de dados estratégica, transformando dados brutos em *insights
 - 📑 **Análise Diagnóstica & Root Cause (SQL + Python):** Investigação de indicadores de negócio, tratamento de dados volumosos via CTEs e análises exploratórias.
 - 📉 **Dashboard Estratégico Corporativo (Power BI + DAX):** Modelagem semântica em *Star Schema*, cálculo de métricas de inteligência de tempo e relatórios executivos.
 
+- from pathlib import Path
+
+md = """# Dashboard Simples de Dados
+
+## Visão Geral
+
+| Indicador | Valor |
+|---|---:|
+| Total de solicitações | 1.000 |
+| Solicitações aprovadas | 650 |
+| Taxa de aprovação | 65% |
+| Valor solicitado | R$ 500.000 |
+| Valor médio por solicitação | R$ 500 |
+
+## Solicitações por Status
+
+| Status | Quantidade | % |
+|---|---:|---:|
+| Aprovado | 650 | 65% |
+| Pendente | 200 | 20% |
+| Reprovado | 150 | 15% |
+| **Total** | **1.000** | **100%** |
+
+## Solicitações por Produto
+
+| Produto | Solicitações | % |
+|---|---:|---:|
+| Produto A | 400 | 40% |
+| Produto B | 300 | 30% |
+| Produto C | 200 | 20% |
+| Produto D | 100 | 10% |
+
+## Evolução Mensal
+
+| Mês | Solicitações |
+|---|---:|
+| Janeiro | 120 |
+| Fevereiro | 145 |
+| Março | 160 |
+| Abril | 180 |
+| Maio | 175 |
+| Junho | 220 |
+
+## Principais Insights
+
+- **65%** das solicitações foram aprovadas.
+- O **Produto A** concentra a maior quantidade de solicitações.
+- Junho apresentou o maior volume do período.
+- A diferença entre solicitações aprovadas e reprovadas é significativa, mas existe espaço para analisar os motivos das reprovações.
+
+## Filtros sugeridos
+
+- Período
+- Produto
+- Status
+- Cliente
+"""
+path = Path("/mnt/data/dashboard_simples.md")
+path.write_text(md, encoding="utf-8")
+print(path)
+
 ---
 
 ### 📫 Contato e Redes Socias
 
 - 💼 **LinkedIn:** [linkedin.com/in/jessicahakime](https://www.linkedin.com/in/jessicahakime/))
-- ✉️ **E-mail:** jessicahakime@gmail.
+- ✉️ **E-mail:** jessicahakime@gmail.com
