@@ -159,7 +159,7 @@ Estou buscando uma oportunidade em Dados/BI em que eu possa unir esse conhecimen
 ```
 ---
 
-### Option 2: 📉 Dashboard Estratégico Corporativo (Power BI + DAX)
+### 📉 Dashboard Estratégico Corporativo (Power BI + DAX)
 
 # 📉 Dashboard Estratégico Corporativo — Visão Executiva B2B
 
