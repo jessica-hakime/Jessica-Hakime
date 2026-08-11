@@ -84,9 +84,9 @@ Atuo com análise de dados estratégica, transformando dados brutos em *insights
 - 📑 **Análise Diagnóstica & Root Cause (SQL + Python):** Investigação de indicadores de negócio, tratamento de dados volumosos via CTEs e análises exploratórias.
 - 📉 **Dashboard Estratégico Corporativo (Power BI + DAX):** Modelagem semântica em *Star Schema*, cálculo de métricas de inteligência de tempo e relatórios executivos.
 
-- from pathlib import Path
+from pathlib import Path
 
-md = """# Dashboard Simples de Dados
+# Dashboard Simples de Dados
 
 ## Visão Geral
 
@@ -151,3 +151,7 @@ print(path)
 
 - 💼 **LinkedIn:** [linkedin.com/in/jessicahakime](https://www.linkedin.com/in/jessicahakime/))
 - ✉️ **E-mail:** jessicahakime@gmail.com
+
+---
+
+
